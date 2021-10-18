@@ -1,3 +1,3 @@
 # app-dev-kotlin
 
-# A quiz app to practice the use of interface design and activities. 
+# A simple quiz app to become familiar with Kotlin.  
